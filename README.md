@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 
 
 <!--
 **yunachu/yunachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌱 I’m currently learning Java, Spring, Python, Elasticsearch, ...
+📫 You can reach me at yujung.chu1@gmail.com
 -->
+
+👋 Hi, I’m @yunachu
